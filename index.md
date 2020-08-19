@@ -1,5 +1,5 @@
 
-# Workshop on Free Probability Theory, Mean Field Theory, and Neural Networks
+# Workshop on Free Probability, Mean Field, and Neural Networks
 
 （自由確率論, 平均場近似と神経回路網に関する交流会）
 
