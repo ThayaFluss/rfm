@@ -1,2 +1,2 @@
-# free_meetup
+# RFM
 Source code of http://thayafluss.github.io/rfm
