@@ -1,4 +1,4 @@
-# RFM
+# Random Free Machine
 Source code of http://thayafluss.github.io/rfm
 
 
