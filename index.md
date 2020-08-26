@@ -19,3 +19,5 @@ zoomでのオンライン発表.
 TBA
 
 
+### Supports
+JST ACT-X
