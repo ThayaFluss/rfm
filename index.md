@@ -41,7 +41,7 @@ Zoomでのオンライン発表. さらに雑談用チャットツールによ�
 - 唐木田 亮 (KARAKIDA Ryo) @ AIST
 - 福田　素久 (FUKUDA Motohisa) @ 山形大学
 - 髙橋 昂 (TAKAHASHI Takashi) @ 東京大学
-- 吉田 裕亮 (YOSHIDA Hiroaki) @ お茶の水大学
+- 吉田 裕亮 (YOSHIDA Hiroaki) @ お茶の水女子大学
 
 ### Supports
 JST ACT-X
