@@ -45,4 +45,4 @@ Zoomでのオンライン発表. さらに雑談用チャットツールによ�
 - 唐木田　亮　(KARAKIDA Ryo) ＠ AIST
 
 ### Supports
- オンライン開催にかかるZoomの料金をJST ACT-Xにサポートを受けています。
+ オンライン開催にかかるZoomの料金等をJST ACT-Xにサポートを受けています。
