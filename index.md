@@ -43,8 +43,8 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
 - 吉田 裕亮 (YOSHIDA Hiroaki) @ お茶の水女子大学
 
 ### Organizers
-- 早瀬　友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
+- （代表）早瀬　友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
 - 唐木田　亮　(KARAKIDA Ryo) ＠ AIST
 
 ### Supports
- オンライン開催にかかるZoomの料金等をJST ACT-Xにサポートを受けています。
+ この研究会はJST ACT-Xにサポートを受けた研究課題の情報収集のために行われています。
