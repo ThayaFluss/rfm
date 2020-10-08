@@ -1,9 +1,6 @@
 # Random Matrices, Free Probability, and Machine Learning 
 「ランダム行列と自由確率と機械学習」は, ランダム行列を中心として, 高次元の確率・統計と関係の深い, 自由確率・統計力学・機械学習等の分野の研究会・セミナーです.
 
-### Organizers
-- 早瀬　友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
-- 唐木田　亮　(KARAKIDA Ryo) ＠ AIST
 
 ###  Dates
 10/27, 29, 30.  (講演者が増えた場合、週ごとの発表を追加).
@@ -42,6 +39,11 @@ Zoomでのオンライン発表. さらに雑談用チャットツールによ�
 - 福田　素久 (FUKUDA Motohisa) @ 山形大学
 - 髙橋 昂 (TAKAHASHI Takashi) @ 東京大学
 - 吉田 裕亮 (YOSHIDA Hiroaki) @ お茶の水女子大学
+
+### Organizers
+- 早瀬　友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
+- 唐木田　亮　(KARAKIDA Ryo) ＠ AIST
+
 
 ### Supports
 JST ACT-X
