@@ -34,14 +34,13 @@ Zoomでのオンライン発表. さらに雑談用チャットツールによ�
   - 16:00 ~  Closing 
 
 
-* Talkの割当てはTBA
 
 ### Speakers (tentative, in alphabet order)
 - Benoit Collins @ 京都大学
 - 樺島　祥介 (KABASHIMA Yoshiyuki)　@ 東京大学
 - 唐木田 亮 (KARAKIDA Ryo) @ AIST
 - 福田　素久 (FUKUDA Motohisa) @ 山形大学
-- 髙橋 昂 (TAKAHASHI Takashi) @ 東京工業大学
+- 髙橋 昂 (TAKAHASHI Takashi) @ 東京大学
 - 吉田 裕亮 (YOSHIDA Hiroaki) @ お茶の水大学
 
 ### Supports
