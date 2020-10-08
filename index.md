@@ -43,7 +43,3 @@ Zoomでのオンライン発表. さらに雑談用チャットツールによ�
 ### Organizers
 - 早瀬　友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
 - 唐木田　亮　(KARAKIDA Ryo) ＠ AIST
-
-
-### Supports
-JST ACT-X
