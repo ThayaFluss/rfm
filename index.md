@@ -1,19 +1,19 @@
 # Random Matrices, Free Probability, and Machine Learning 
 「ランダム行列と自由確率と機械学習」は, ランダム行列を中心とした, 自由確率・統計力学・機械学習等の分野を超えた情報交換のためのワークショップです.
 
-###  Dates
+###  Dates 開催日時 
 10/27, 29, 30.  (講演者が増えた場合、週ごとの発表を追加).
 
-### Venue
+### Venue 開催場所
 Zoomでのオンライン発表. さらにDiscord雑談用チャットツールによる交流時間を確保予定.
 
-###  Format
+### Format 形式
 - 50分の発表＋10分の質疑応答.
 
-### Language
+### Language メインの言語
 日本語
 
-###  Program　（仮）
+###  Program (仮)
 - 10/27（火）:
   - 11:00 開場 （Zoomの開放, Discordの質問受け付け等の開始）
   - 13:00 ~ 13:30 Opening（趣旨とDiscordの説明）
@@ -35,17 +35,17 @@ to data analysis)
   - 議論および懇親会（参加希望者のみ）
 
 
-### Speakers (tentative, in alphabet order)
+### Speakers (in alphabet order)
 - Benoit Collins @ 京都大学
-- 福田　素久 (FUKUDA Motohisa) @ 山形大学
-- 樺島　祥介 (KABASHIMA Yoshiyuki)　@ 東京大学
+- 福田 素久 (FUKUDA Motohisa) @ 山形大学
+- 樺島 祥介 (KABASHIMA Yoshiyuki)　@ 東京大学
 - 唐木田 亮 (KARAKIDA Ryo) @ AIST
 - 髙橋 昂 (TAKAHASHI Takashi) @ 東京大学
 - 吉田 裕亮 (YOSHIDA Hiroaki) @ お茶の水女子大学
 
-### Organizers
-- （代表）早瀬　友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
-- 唐木田　亮　(KARAKIDA Ryo) ＠ AIST
+### Organizers 
+- （代表）早瀬 友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
+- 唐木田 亮　(KARAKIDA Ryo) ＠ AIST
 
 ### Supports
  この研究会はJST ACT-Xにサポートを受けた研究課題の情報収集のために行われています。
