@@ -27,7 +27,8 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
   - 14:30 ~ 15:30 福田
 
 - 10/30（金）:
-  - 13:00 ~ 14:00 吉田
+  - 13:00 ~ 14:00 吉田 「ランダム行列の２次漸近挙動のデータ解析への応用」　(An application of the second order asymptotics of random matrices
+to data analysis)
   - 14:00 ~ 14:30 -休憩-
   - 14:30 ~ 15:30 唐木田
   - 15:30   Closing 
