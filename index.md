@@ -37,16 +37,16 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
  
 - 10/29（木）:
   - 13:00 ~ 14:00 高橋
-    - 「高次元統計学におけるリサンプリング法に対する統計力学的アプローチ」(A statistical mechanics approach to a resampling method in high-dimensional statistics )
+    - 「高次元統計学におけるリサンプリング法に対する統計力学的アプローチ」
   - 14:00 ~ 14:30 -休憩-
   - 14:30 ~ 15:30 福田
 
 - 10/30（金）:
   - 13:00 ~ 14:00 吉田 
-    - 「ランダム行列の２次漸近挙動のデータ解析への応用」　(An application of the second order asymptotics of random matrices
-to data analysis)
+    - 「ランダム行列の２次漸近挙動のデータ解析への応用」　
   - 14:00 ~ 14:30 -休憩-
   - 14:30 ~ 15:30 唐木田
+     - 「深層学習の数理: ランダム行列と統計力学的視点」
   - 15:30   Closing 
   - 議論および懇親会（参加希望者のみ）
 
