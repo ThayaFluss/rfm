@@ -36,7 +36,7 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
     - 「回転不変スピングラスモデルとレプリカ法」
   - 14:30 ~ 15:00  -休憩-
   - 15:00 ~ 16:00 Collins
-    -  "Application of Random Matrix (and free probability) to Quantum Information Theory"
+    -  TBA
  
 - 10/29（木）:
   - 13:00 ~ 14:00 高橋
