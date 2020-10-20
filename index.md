@@ -1,17 +1,11 @@
 # Random Matrices, Free Probability, and Machine Learning 
 「ランダム行列と自由確率と機械学習」は, ランダム行列を中心とした, 自由確率・統計力学・機械学習等の分野を超えた情報交換のためのワークショップです.
 
-###  Dates 開催日時 
+###  Dates 
 10/27, 29, 30.  (講演者が増えた場合、週ごとの発表を追加).
 
-### Venue 開催場所
+### Venue 
 Zoomでのオンライン発表. さらにDiscord雑談用チャットツールによる交流時間を確保予定.
-
-### Format 形式
-- 50分の発表＋10分の質疑応答.
-
-### Language メインの言語
-日本語
 
 
 ### Speakers (in alphabet order)
@@ -27,6 +21,13 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
 - 唐木田 亮　(KARAKIDA Ryo) ＠ AIST
 
 
+### Format 
+- 50分の発表＋10分の質疑応答.
+
+### Language 
+日本語
+
+
 ###  Program (仮)
 - 10/27（火）:
   - 11:00 開場 （Zoomの開放, Discordの質問受け付け等の開始）
@@ -35,7 +36,7 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
     - 「回転不変スピングラスモデルとレプリカ法」
   - 14:30 ~ 15:00  -休憩-
   - 15:00 ~ 16:00 Collins
-    - TBA
+    -  "Application of Random Matrix (and free probability) to Quantum Information Theory"
  
 - 10/29（木）:
   - 13:00 ~ 14:00 高橋
