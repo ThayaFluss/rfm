@@ -37,9 +37,7 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
   - 14:30 ~ 15:00  -休憩-
   - 15:00 ~ 16:00 Collins
     -  "Weingarten calculus: an introduction, some results and applications"
-    (Talk is in Japanese, Slide/Writing are in English)
-
- 
+    (Talk:  Japanese, Slide/Writing :  English) 
 - 10/29（木）:
   - 13:00 ~ 14:00 高橋
     - 「高次元統計学におけるリサンプリング法に対する統計力学的アプローチ」
