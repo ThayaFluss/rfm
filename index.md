@@ -19,7 +19,7 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
 ### Organizers 
 - （代表）早瀬 友裕　(HAYASE Tomohiro)  @ Fujitsu Lab.
 - 唐木田 亮　(KARAKIDA Ryo) ＠ AIST
-
+- 吉田 裕亮 (YOSHIDA Hiroaki) @ お茶の水女子大学
 
 ### Format 
 - 50分の発表＋10分の質疑応答.
