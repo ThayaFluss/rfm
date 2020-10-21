@@ -36,7 +36,9 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
     - 「回転不変スピングラスモデルとレプリカ法」
   - 14:30 ~ 15:00  -休憩-
   - 15:00 ~ 16:00 Collins
-    -  TBA
+    -  "Weingarten calculus: an introduction, some results and applications"
+    (Talk is in Japanese, Slide/Writing are in English)
+
  
 - 10/29（木）:
   - 13:00 ~ 14:00 高橋
