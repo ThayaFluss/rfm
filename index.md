@@ -28,7 +28,7 @@ Zoomでのオンライン発表. さらにDiscord雑談用チャットツール�
 日本語
 
 
-###  Program (仮)
+###  Program 
 - 10/27（火）:
   - 11:00 開場 （Zoomの開放, Discordの質問受け付け等の開始）
   - 13:00 ~ 13:30 Opening（趣旨とDiscordの説明）
