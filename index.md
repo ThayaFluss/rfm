@@ -5,8 +5,8 @@
 10/27, 29, 30.  (講演者が増えた場合、週ごとの発表を追加).
 
 ### Venue 
-Zoomでのオンライン発表. さらにDiscord雑談用チャットツールによる交流時間を確保予定.
-
+Zoomでのオンライン発表. ~~さらにDiscord雑談用チャットツールによる交流時間を確保予定.~~
+参加者多数のため、 Spatial Chatでの雑談＆懇親会へ移行
 
 ### Speakers (in alphabet order)
 - Benoit Collins @ 京都大学
