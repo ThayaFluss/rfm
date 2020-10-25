@@ -6,7 +6,7 @@
 
 ### Venue 
 Zoomでのオンライン発表. ~~さらにDiscord雑談用チャットツールによる交流時間を確保予定.~~
-参加者多数のため、 Spatial Chatでの雑談＆懇親会へ移行
+参加者多数のため、 Spatial Chatでの雑談＆懇親会へ変更.
 
 ### Speakers (in alphabet order)
 - Benoit Collins @ 京都大学
