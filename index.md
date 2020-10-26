@@ -29,8 +29,9 @@ Zoomでのオンライン発表. ~~さらにDiscord雑談用チャットツー�
 
 
 ###  Program 
+＊すべての開催日で、運営は 11:00 からZoomの開放, ~~Discord~~, Spatial Chatの質問受け付け等の開始
+
 - 10/27（火）:
-  - 11:00 開場 （Zoomの開放, ~~Discord~~, Spatial Chatの質問受け付け等の開始）
   - 13:00 ~ 13:30 Opening（趣旨とSpatial Chatの説明）
   - 13:30 ~ 14:30 樺島
     - 「回転不変スピングラスモデルとレプリカ法」
@@ -39,7 +40,6 @@ Zoomでのオンライン発表. ~~さらにDiscord雑談用チャットツー�
     -  "Weingarten calculus: an introduction, some results and applications"
     (Talk:  Japanese, Slide/Writing :  English) 
 - 10/29（木）:
-  - 11:00 開場 （Zoomの開放, ~~Discord~~, Spatial Chatの質問受け付け等の開始）
   - 13:00 ~ 14:00 高橋
     - 「高次元統計学におけるリサンプリング法に対する統計力学的アプローチ」
   - 14:00 ~ 14:30 -休憩-
@@ -47,7 +47,6 @@ Zoomでのオンライン発表. ~~さらにDiscord雑談用チャットツー�
     -  「ランダム生成した量子通信路や量子状態について」
 
 - 10/30（金）:
-  - 11:00 開場 （Zoomの開放, ~~Discord~~, Spatial Chatの質問受け付け等の開始）
   - 13:00 ~ 14:00 吉田 
     - 「ランダム行列の２次漸近挙動のデータ解析への応用」　
   - 14:00 ~ 14:30 -休憩-
