@@ -32,7 +32,7 @@ Zoomでのオンライン発表. ~~さらにDiscord雑談用チャットツー�
 ＊すべての開催日で、運営は 11:00 からZoomの開放, ~~Discord~~, Spatial Chatの質問受け付け等の開始
 
 - 10/27（火）:
-  - 13:00 ~ 13:30 [Opening](slides/Opening.pdf)（趣旨とSpatial Chatの説明）
+  - 13:00 ~ 13:30 [Opening](slides/RFM_opening.pdf)（趣旨とSpatial Chatの説明）
   - 13:30 ~ 14:30 樺島
     - [「回転不変スピングラスモデルとレプリカ法」](slides/Kabashima_replica-BP201027.pdf)
   - 14:30 ~ 15:00  -休憩-
